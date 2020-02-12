@@ -26,7 +26,7 @@
 #elif defined(_MSC_VER)
 #pragma warning(pop)
 #endif
-#include "EigenNonBlockingThreadPool.h"
+#include "core/platform/EigenNonBlockingThreadPool.h"
 
 
 namespace onnxruntime {
